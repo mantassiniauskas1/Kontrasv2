@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/test"
+        android:title="test"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/test2"
+        android:title="test"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_item1"
+        android:title="Paiesku grupe 1"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_item2"
+        android:title="Paiesku grupe 2"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_item3"
+        android:title="Paiesku grupe 3"
+        app:showAsAction="ifRoom" />
+</menu>
